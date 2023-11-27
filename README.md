@@ -6,28 +6,24 @@ The intention of this workshop is not so much to _teach_ you Python; but rather 
 
 So in this workshop, we'll introduce you to the basics of the Python language. We'll introduce you to some of the libraries which can be used for geospatial data - _shapely_ for geometry, _pyproj_ for projections, _geopandas_ for tables of geospatial and attribute data, _movingpandas_ for moving objects, _GDAL_ and _Rasterio_ for raster data, _EOmaps_ for data visualisation. We'll drag some libraries along the way which aren't geospatial in themselves, but which are key to data processing and visualisation - such as _matplotlib_ for plots, and _numpy_ for maths. And if we have time, we might point you in a few other directions too.
 
-1. Github  
-Create account, clone repo, git workflows
+0. Version Control, Virtual Environments, Package Management, and IDEs   
+Create github account, git workflows, clone repo  
+Installing python and packages, pip, conda, pyenv, poetry  
+IDEs (VS Code, PyCharm, Spyder) and Notebooks (Jupyter, Colab)  
+  
+1. The Python Language 
+Modules, Variables, functions, classes, flow
 
-2. Virtual Environments  
-Installing python and packages, pip, conda, mamba
-
-3. Working with python  
-IDEs (VS Code, PyCharm, Spyder) and Notebooks (Jupyter, Colab) 
-
-4. Data types   
+2. Data types   
 str, int, float, tuple, list, dictionary, 0b, 0x, 8/32/64-bit
 
-5. Basic building blocks  
-Variables, print(), if, while, for, functions, classes, modules, import
-
-6. Vector data  
+3. Vector data  
 shapely and geopandas for points, lines, and polygons; pyproj for projections; plotting with matplotlib; reading and writing files
 
-7. Raster data  
+4. Raster data  
 GDAL, Rasterio
 
-8. Data Visualisation  
+5. Data Visualisation  
 Eomaps
 
 
