@@ -16,6 +16,7 @@ cartopy = "^0.22.0"
 fiona = "^1.9.5"
 numpy = "^1.26.2"
 eomaps = "^7.3.1"
+pyogrio = "^0.7.2"
 
 
 [tool.poetry.group.dev.dependencies]
