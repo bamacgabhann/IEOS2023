@@ -6,25 +6,36 @@ The intention of this workshop is not so much to _teach_ you Python; but rather 
 
 So in this workshop, we'll introduce you to the basics of the Python language. We'll introduce you to some of the libraries which can be used for geospatial data - _shapely_ for geometry, _pyproj_ for projections, _geopandas_ for tables of geospatial and attribute data, _movingpandas_ for moving objects, _GDAL_ and _Rasterio_ for raster data, _EOmaps_ for data visualisation. We'll drag some libraries along the way which aren't geospatial in themselves, but which are key to data processing and visualisation - such as _matplotlib_ for plots, and _numpy_ for maths. And if we have time, we might point you in a few other directions too.
 
-0. Version Control, Virtual Environments, Package Management, and IDEs   
-Create github account, git workflows, clone repo  
-Installing python and packages, pip, conda, pyenv, poetry  
-IDEs (VS Code, PyCharm, Spyder) and Notebooks (Jupyter, Colab)  
+## 0. Version Control, Virtual Environments, Package Management, and IDEs   
+ - Create github account, git workflows, clone repo  
+ - Installing python and packages, pip, conda, pyenv, poetry  
+ - IDEs (VS Code, PyCharm, Spyder) and Notebooks (Jupyter, Colab)  
   
-1. The Python Language 
-Modules, Variables, functions, classes, flow
-
-2. Data types   
+## 1. The Python Language 
+ - Modules  
+ - Variables  
+ - functions  
+ - scope  
+ - classes  
+ - flow
+  
+## 2. Data types   
 str, int, float, tuple, list, dictionary, 0b, 0x, 8/32/64-bit
-
-3. Vector data  
-shapely and geopandas for points, lines, and polygons; pyproj for projections; plotting with matplotlib; reading and writing files
-
-4. Raster data  
-GDAL, Rasterio
-
-5. Data Visualisation  
-Eomaps
+  
+## 3. Vector data  
+ - shapely for points, lines, and polygons  
+ - geopandas for attribute data  
+ - pyproj for projections  
+ - Fiona for reading and writing files  
+ - vector geoprocessing with geopandas, osmnx, and movingpandas  
+  
+## _4. Raster data_ (in progress)  
+GDAL, Rasterio  
+  
+## _5. Data Visualisation_  (in progress)
+ - matplotlib  
+ - Eomaps  
+ - Folium
 
 
 
