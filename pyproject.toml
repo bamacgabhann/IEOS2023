@@ -19,6 +19,7 @@ eomaps = "^7.3.1"
 pyogrio = "^0.7.2"
 pyarrow = "^14.0.1"
 osmnx = "^1.7.1"
+folium = "^0.15.0"
 
 
 [tool.poetry.group.dev.dependencies]
