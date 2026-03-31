@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: MacGabhann
+  given-names: Breandán Anraoi
+orcid: https://orcid.org/0000-0002-5422-4638
+title:bamacgabhann/IEOS2023: IEOS 2023 Introduction to Geospatial Python workshop
+version: v1.0.0
+date-released: 2023-11-31
